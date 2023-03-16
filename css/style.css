@@ -134,7 +134,6 @@ body {
 }
 
 #footer {
-  border: 1px solid black;
   margin-top: 10px;
   display: flex;
   flex-direction: column;
