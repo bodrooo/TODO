@@ -18,7 +18,7 @@ function capitalizeEachWord(str) {
 
 const h2 = document.createElement("h2")
 h2.style.transition = "opacity ease .3s"
-h2.textContent = "No Task Yet"
+h2.textContent = "No Task Yet :-)"
 if (document.querySelector(".task") == null) {
   listTask.append(h2)
 }
